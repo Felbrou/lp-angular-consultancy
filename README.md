@@ -11,7 +11,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Project image:
 
-![Lp section One](./project-images/proj-screen1.jpg)
+![Lp section One](https://github.com/Fernanda-Kipper/landing-page-ssr/raw/main/.github/landing-page.png)
 
 ## Code scaffolding
 
