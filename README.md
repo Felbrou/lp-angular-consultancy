@@ -11,7 +11,17 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Project image:
 
+### Section 1:
 ![Lp section One](./project-images/proj-screen1.jpg)
+
+### Section 2:
+![Lp section One](./project-images/proj-screen2.jpg)
+
+### Section 3:
+![Lp section One](./project-images/proj-screen3.jpg)
+
+### Section 4:
+![Lp section One](./project-images/proj-screen4.jpg)
 
 ## Code scaffolding
 
